@@ -12,6 +12,7 @@ type SharedEntity struct {
 	Id                      int64                        `xml:"Id,omitempty"`
 	Name                    string                       `xml:"Name,omitempty"`
 	Type                    string                       `xml:"Type,omitempty"`
+	ItemCount               int                          `xml:"ItemCount,omitempty"`
 }
 
 // SharedList 表示共享列表
