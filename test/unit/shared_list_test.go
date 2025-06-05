@@ -3,9 +3,9 @@ package unit
 import (
 	"testing"
 
-	"github.com/vancevox/bingads/campaignManagement/models"
-	"github.com/vancevox/bingads/campaignManagement/service"
-	"github.com/vancevox/bingads/config"
+	"github.com/vancevox/bingads-go/campaignManagement/models"
+	"github.com/vancevox/bingads-go/campaignManagement/service"
+	"github.com/vancevox/bingads-go/config"
 )
 
 func TestGetListItemsBySharedList(t *testing.T) {

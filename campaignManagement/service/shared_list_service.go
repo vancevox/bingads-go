@@ -3,9 +3,9 @@ package service
 import (
 	"fmt"
 
-	"github.com/vancevox/bingads/config"
+	"github.com/vancevox/bingads-go/config"
 
-	"github.com/vancevox/bingads/campaignManagement/models"
+	"github.com/vancevox/bingads-go/campaignManagement/models"
 )
 
 // SharedListService 实现共享列表服务

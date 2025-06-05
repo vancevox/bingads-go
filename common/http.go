@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/go-resty/resty/v2"
-	"github.com/vancevox/bingads/base"
-	"github.com/vancevox/bingads/config"
+	"github.com/vancevox/bingads-go/base"
+	"github.com/vancevox/bingads-go/config"
 )
 
 // 使用相对路径的备用方案

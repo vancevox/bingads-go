@@ -4,10 +4,10 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"github.com/vancevox/bingads/base"
-	"github.com/vancevox/bingads/campaignManagement/models"
-	"github.com/vancevox/bingads/common"
-	"github.com/vancevox/bingads/config"
+	"github.com/vancevox/bingads-go/base"
+	"github.com/vancevox/bingads-go/campaignManagement/models"
+	"github.com/vancevox/bingads-go/common"
+	"github.com/vancevox/bingads-go/config"
 )
 
 // Client 实现 CampaignManagementAPI 接口

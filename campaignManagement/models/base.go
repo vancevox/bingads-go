@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"github.com/vancevox/bingads/base"
+	"github.com/vancevox/bingads-go/base"
 )
 
 type AccountNegativeKeywordList struct {
